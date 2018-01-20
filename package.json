@@ -1,0 +1,17 @@
+{
+  "name": "gam",
+  "version": "0.1.0",
+  "description": "Graphcool Account Manager",
+  "bin": {
+    "gam": "./gam.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphcool"
+  ],
+  "repository": "github:dansteren/gam",
+  "author": "Dan Steren <daniel.d.steren@gmail.com> (http://github.com/dansteren)",
+  "license": "MIT"
+}
